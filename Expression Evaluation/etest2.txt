@@ -1,0 +1,7 @@
+varx 6
+vary 5
+vara 4
+a 2
+b 1
+arrayA 10 (3,5) (8,12) (9,3)
+arrayB 9 (4,1) (8,9) (5,2)
