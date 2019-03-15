@@ -1,0 +1,30 @@
+15
+sam|y|rutgers
+jane|y|rutgers
+michele|y|cornell
+sergei|y|rutgers
+ricardo|y|penn state
+kaitlin|y|rutgers
+samir|n
+aparna|y|rutgers
+ming|y|penn state
+nick|y|penn state
+bob|y|rutgers
+heather|y|penn state
+rachel|n
+rich|y|ucla
+tom|y|ucla
+tom|rich
+michele|tom
+michele|rachel
+heather|nick
+ming|nick
+nick|ricardo
+aparna|ricardo
+samir|aparna
+sergei|aparna
+bob|samir
+kaitlin|nick
+jane|kaitlin
+jane|bob
+sam|jane
