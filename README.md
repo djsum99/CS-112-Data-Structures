@@ -4,7 +4,7 @@ These are some of the projects I did while taking Data Structures (CS 112) at Ru
 
 Here are a few short descriptions of each of the projects:
 
-1. Expression Evaluation
+1. Expression Evaluation\n
       a. Simplifies a complex expression of numbers to a single number
       b. Variables and arrays can be included in these expressions if they are defined in a txt file
       c. The classes Expression, Evaluator, Array, and Variable have been included
